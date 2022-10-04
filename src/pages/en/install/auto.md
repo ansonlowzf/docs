@@ -70,7 +70,7 @@ Every starter template comes with a pre-configured script that will run `astro d
   </Fragment>
   <Fragment slot="pnpm">
   ```shell
-  pnpm run dev
+  pnpm dev
   ```
   </Fragment>
   <Fragment slot="yarn">
